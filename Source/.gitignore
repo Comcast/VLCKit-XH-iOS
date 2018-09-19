@@ -1,0 +1,15 @@
+!Makefile
+*.mode*
+*.pbxuser
+xcuserdata
+project.xcworkspace
+MobileVLCKit/vlc-plugins-AppleTV.h
+MobileVLCKit/vlc-plugins-AppleTV.xcconfig
+MobileVLCKit/vlc-plugins-iPhone.h
+MobileVLCKit/vlc-plugins-iPhone.xcconfig
+.DS_Store
+build
+/vlc-unstable
+DerivedData
+MobileVLCKit/ImportedSources
+/libvlc
